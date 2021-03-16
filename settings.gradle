@@ -1,0 +1,4 @@
+include ':sdk-0.10.76'
+include ':com.robotemi-sdk-0.10.76'
+include ':app'
+rootProject.name = "Demo4"
